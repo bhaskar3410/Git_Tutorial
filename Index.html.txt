@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome To Tutorial Spot this is uday_bhaskar3410</title>
+<title>Welcomes To The Tutorial Spot this is uday_bhaskar3410</title>
 </head>
 <body>
 
