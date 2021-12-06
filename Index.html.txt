@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome To Tutorial Spot this is uday_bhaskar3410</title>
+</head>
+<body>
+
+<h1>This is udaya Git Practice</h1>
+<p>This is a Dec.</p>
+
+</body>
+</html>
